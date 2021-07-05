@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kdbonneville
 - 👀 I’m interested in learning how to perform these functions thoughtfully and properly.
 - 🌱 I’m currently learning how to function within these parameters.
-- 💞️ I’m looking to collaborate on all of the things in this class!
 - 📫 How to reach me kelleybonneville@yahoo.com
 
 <!---
